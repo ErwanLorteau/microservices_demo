@@ -3,6 +3,9 @@
 All mandatory steps
 No optionnal steps
 
+# Report 
+Available at the root of the git repo
+
 # Deployment
 Simply follow the instrution provided in the original readme of the microservice demo, with a single change
 You need a gcloud account with enhanced quota (more ip adress range, and 1300gb) to deploy on 4 nodes with e2 instances as stated in the guidelines (no autopilot)
